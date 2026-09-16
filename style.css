@@ -543,13 +543,13 @@ nav a:hover {
 .health-card {
     position: absolute;
 
-    left: 45%;
+    left: 55%;
     bottom: -60px;
 
     display: flex;
     flex-direction: column;
 
-    padding: 7px 16px;
+    padding: 5px 10px;
 
     background: white;
 
