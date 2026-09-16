@@ -544,7 +544,7 @@ nav a:hover {
     position: absolute;
 
     left: 45%;
-    bottom: 400px;
+    bottom: -60px;
 
     display: flex;
     flex-direction: column;
